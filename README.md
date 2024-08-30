@@ -26,8 +26,3 @@ Run the following command:
 `yarn test`
 Or run (for UI mode):
 `yarn test:ui`
-
-### Our Jenkins configuration
-
-Should you wish to run the pipeline, you can do so by accessing it in Jenkins, and if you wish to run it against a specific URL, for example a PR branch, the "Build with parameters" is configured to allow you to do so, as well as skip certain applications being tested.
-# gravana-e2e-tests

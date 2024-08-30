@@ -1,0 +1,13 @@
+{
+  "name": "grafana",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "yarn playwright test --project chromium",
+    "test:ui": "yarn playwright test --project chromium --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.1",
+    "prettier": "^3.3.3"
+  }
+}
