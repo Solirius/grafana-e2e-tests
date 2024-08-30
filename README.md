@@ -1,4 +1,4 @@
-# prl-e2e-tests
+# gravana-e2e-tests
 
 ## Brief introduction
 
