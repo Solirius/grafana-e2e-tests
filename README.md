@@ -1,4 +1,4 @@
-# gravana-e2e-tests
+# grafana-e2e-tests
 
 ## Brief introduction
 
